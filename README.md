@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá!! 🍮
 
-<!--
-**Menaipe/Menaipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas
 
-Here are some ideas to get you started:
+- Sou estudamte do ensino médio
+- Estou estudando na plataforma 
+Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato através do seguinte e-mail 📭:
+
+➡️  00001247255359sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif)
